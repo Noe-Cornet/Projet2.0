@@ -5,18 +5,18 @@ def test_calculer_reflexion_point_1:
 def test_calculer_reflexion_point_2:
 
 
-# a remplire
+    # a remplire
 
 def test_rotate_point:
 
 
-# a remplire
+    # a remplire
 
 def test_calculer_inclinaison_point_1:
 
 
-# a remplire
+    # a remplire
 
 def test_calculer_inclinaison_point_2:
 
-# a remplire
+    # a remplire
